@@ -14,7 +14,7 @@ Read the given information for a better understanding of this project.
 
 **2. Age Classification:** A Caffe model (age_net.caffemodel) trained on the Adience dataset is employed for age detection.
 
-**2. Gender Classification:** Another Caffe model (gender_net.caffemodel) is used for gender detection.
+**3. Gender Classification:** Another Caffe model (gender_net.caffemodel) is used for gender detection.
 
 
 ### File Structure
